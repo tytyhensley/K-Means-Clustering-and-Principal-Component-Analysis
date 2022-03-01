@@ -1,13 +1,14 @@
-# Part I. K-means clustering
-## Introduction
+# K-Means CLustering and Principal Component Analysis
+## Part I. K-means clustering
+### Introduction
 K-means is one of the widely used unsupervised learning algorithms that solve the
 well-known clustering problem. The procedure follows a simple and easy way to classify a
 given data set through a certain number of clusters (assume k clusters). The main idea is to
 define k centers, one for each cluster. These centers should be placed in a cunning way
 because of different location causes different result.
 
-# Part II. Principal Component Analysis (PCA)
-## Introduction
+## Part II. Principal Component Analysis (PCA)
+### Introduction
 Principal Components Analysis (PCA) is a dimensionality reduction algorithm that can be used
 to significantly speed up your unsupervised feature learning algorithm. For example, when you
 train your model on a dataset such as images, some of our data points may be meaningless in
